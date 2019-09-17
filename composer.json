@@ -1,5 +1,5 @@
 {
-    "name": "oseintow/laravel-bigcommerce",
+    "name": "prikid/laravel-bigcommerce",
     "description": "Laravel bigcommerce package",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "illuminate/support": "^5.4",
+        "illuminate/support": "^6.0",
         "bigcommerce/api": "^3.0"
     },
     "autoload": {
